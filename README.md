@@ -9,3 +9,5 @@ The project consists of 2 major events.
 The / directory leads the user to the website where they can search for any dish and it will be displayed in the order of the highest rating(The app's preference)
 
 The /data directory adds the CSV data to the SQLite database.(NO NEED TO RUN!!!)
+
+All parts of important code are commented with my thoughts behind the program.
